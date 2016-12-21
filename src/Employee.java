@@ -1,5 +1,6 @@
 public class Employee 
 {
+	//this is Employee.java class
  String name;
  int age;
  float salary;
