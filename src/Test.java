@@ -17,6 +17,7 @@ class Test{
 		//this is b2 line 17
 		Collections.sort(elist,new NameSalaryAgeComparator());
 		//this is b2 line 19
+		//this is b2 line 20
 		System.out.println("after sort"+elist);
 	}
 }
