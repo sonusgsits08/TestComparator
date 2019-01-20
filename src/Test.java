@@ -14,7 +14,9 @@ class Test{
 		elist.add(e3);
 		System.out.println("before sort"+elist);
 		//Collections.sort(elist,new NameComparator());
+		//this is b1 line 17
 		Collections.sort(elist,new NameSalaryAgeComparator());
+		//this is b1 line 19
 		System.out.println("after sort"+elist);
 	}
 }
